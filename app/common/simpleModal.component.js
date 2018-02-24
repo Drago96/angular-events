@@ -1,0 +1,1 @@
+//# sourceMappingURL=simpleModal.component.js.map
