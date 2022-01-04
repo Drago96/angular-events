@@ -21,7 +21,7 @@
     "@angular/router": "4.0.0",
     "bootstrap": "^3.3.7",
     "core-js": "2.4.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "ng2f-bootstrap": "^0.0.4",
     "ng2f-server": "^0.2.3",
     "rxjs": "5.0.1",
